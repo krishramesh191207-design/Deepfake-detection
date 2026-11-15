@@ -1,0 +1,9 @@
+# Developed and run on Google Colab (Tesla T4). Replace these lower bounds with the exact
+# versions from your Colab session (torch.__version__, torchvision.__version__, ...) before submitting.
+torch>=2.0
+torchvision>=0.15
+numpy
+pandas
+pillow
+scikit-learn
+matplotlib

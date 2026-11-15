@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+output*/
+*.pt
+*.pth
+*.zip
+hackathon_dataset/
+.DS_Store
